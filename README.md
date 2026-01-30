@@ -1,2 +1,9 @@
-# Control_comercial_cta_convergente
-Este proyecto es una herramienta de control comercial para asesores, orientada a evaluar el cumplimiento de objetivos mensuales, el mix de ventas y la calificación a comisiones, utilizando reglas reales del sector de telecomunicaciones. El sistema permite que cada asesor ingrese sus propias ventas y también configure manualmente los objetivos.
+# MANUAL DE VENTAS - CUENTA CONVERGENTE
+
+Este manual tiene como objetivo estandarizar y ordenar el proceso de venta de cuentas convergentes, contemplando portabilidad, líneas nuevas y fibra óptica (BAF).
+Está pensado como una guía práctica para asesores comerciales, donde se definen:
+Objetivos mensuales por servicio
+Reglas de mix comercial
+Criterios de cumplimiento
+Buenas prácticas operativas
+El contenido se basa en escenarios reales de gestión comercial y puede adaptarse a distintos períodos, campañas u objetivos definidos por la empresa.
