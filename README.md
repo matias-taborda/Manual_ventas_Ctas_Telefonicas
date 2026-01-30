@@ -10,10 +10,10 @@ Facilitar el control del cumplimiento
 Mejorar la toma de decisiones comerciales
 El manual puede adaptarse a distintos períodos, campañas u objetivos definidos por la empresa.
 ## 🧩 Alcance
-Este documento aplica a la venta de los siguientes servicios:
-📱 Portabilidad
-➕ Líneas nuevas
-🌐 Fibra óptica (BAF)
+Este documento aplica a la venta de los siguientes servicios:  
+📱 Portabilidad  
+➕ Líneas nuevas  
+🌐 Fibra óptica (BAF)  
 Cada servicio cuenta con objetivos específicos y reglas propias, que deben cumplirse para considerar la venta válida a nivel comercial.
 ## 📊 Objetivos comerciales
 Los objetivos mensuales se definen por servicio y pueden variar según el período.
